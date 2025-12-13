@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin:30px 90px 0 90px;
+            line-height: 1.5;
+
+        }
+        h1,h2 {color: rgb(219, 52, 1);}
+        ul{
+            list-style-type: circle;
+        }
+        a {
+            text-decoration: none;
+            color:  hsl(240, 100%, 50%);
+        }
+            a:hover{
+            
+                text-decoration: underline;
+                color: rgb(33, 198, 52);
+            }
+        
+                pre{
+            background-color: rgb(241, 241, 241); 
+            border-left: #0b85fe 5px solid; 
+            font-size: 16px;
+            padding: 10px 20px;
+           }
+            
+        
+        
+    </style>
+</head>
+<body>
+    <!---section 1 --->
+    <h1 style="">HTML tutorial</h1>
+    <p>Welcome to the HTML tutorial. Click on the topics below to start learning :
+
+    </p>
+    <h2>Topics</h2>
+    <ul>
+        <li><a href="http://"><a href="">Introduction to HTML</a></a></li>
+        <li><a href="http://">HTML Document Structure</a></li>
+        <li><a href="mailto:">Heading</a></li>
+        <li><a href="http://">Paragraph</a></li>
+        <li><a href="http://">Text Formatting</a></li>
+        <li><a href="http://">Creating Links</a></li>
+        <li><a href="http://">Lists (Ordered and Unordered)</a></li>
+        <li><a href="http://">Adding Images</a></li>
+        <li><a href="http://">Creating Tables</a></li>
+        <li><a href="http://">Creating Tables</a></li>
+        <li><a href="http://">Embedding Multimedia (Audio & Video)</a></li>
+        <li><a href="http://">Semantic HTML</a></li>
+    </ul>
+
+<hr>
+<!---section 2 --->
+<h2>Introduction to HTML</h2>
+
+<pre>
+    - HTML stands for Hyper Text Markup Language
+    - HTML is the standard markup language for creating Web pages
+    - HTML describes the structure of a Web page
+    - HTML consists of a series of elements
+    - HTML elements tell the browser how to display the content
+    - HTML elements are represented by tags
+    - HTML tags label pieces of content such as "heading", "paragraph", "table", and so on
+    - Browsers do not display the HTML tags, but use them to render the content of the page
+    - HTML can embed programs written in a scripting language such as JavaScript, which affects the behavior and
+   content of web pages
+    - HTML is not a programming language, but a markup language 
+</pre>3
+<a href="http://">Top</a>
+</body>
+</html>
